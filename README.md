@@ -92,9 +92,7 @@ yaml
 Copy
 Edit
 
----
 
-You can now **copy-paste this entire content into your `README.md` file** directly in your Cloud IDE. Let me know if you'd like to add author credits, demo screenshots, or badges.
 
 
 
